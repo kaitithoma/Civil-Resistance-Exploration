@@ -5,7 +5,7 @@ taken place worldwide. You can see more information about the dataset and the qu
 asked to answer in 
 [this file](https://github.com/kaitithoma/Civil-Resistance-Exploration/blob/master/questions.ipynb).
 
-## Libraries
+## Libraries Used
 - Pandas
 - StatsModels
 - Matplotlib
